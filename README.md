@@ -22,9 +22,3 @@ CSS          ░░░░░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### 🏆 github trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=elsie-c&theme=darkhub&column=10)
-
-
